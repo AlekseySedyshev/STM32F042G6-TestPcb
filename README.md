@@ -1,0 +1,2 @@
+
+Simple PCB with STM32F042G6 MCU
